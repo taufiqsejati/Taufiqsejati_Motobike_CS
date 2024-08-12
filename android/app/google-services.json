@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "66214617161",
+    "project_id": "taufiq-sewa-motor",
+    "storage_bucket": "taufiq-sewa-motor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66214617161:android:4ab5d296dedaf1b88c9f98",
+        "android_client_info": {
+          "package_name": "com.taufiqsejati_motobike"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFg9Vi0lszYFFAp1tFEbCVPmOfjvJZIzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66214617161:android:96d1a36276a6ff428c9f98",
+        "android_client_info": {
+          "package_name": "com.taufiqsejati_motobike_cs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFg9Vi0lszYFFAp1tFEbCVPmOfjvJZIzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
